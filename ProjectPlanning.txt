@@ -1,0 +1,4 @@
+DIODE (DIsc dOg Data Exploration) Project Planning
+
+
+Predict time to league promotion (what the best predictors are and with what accuracy this can be predicted would be interesting)
