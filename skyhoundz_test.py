@@ -12,6 +12,8 @@ import pandas as pd
 '''
 This program will get all data from the skyhoundz website 
 utilizing the Skyhoundz.py file
+All data can be scraped by selecteing the correct event wanted,
+data will be stored in csv file located at outpath location
 '''
 outpath ='C:/Users/smith/Documents/GitHub/DIODE/Discdogathonresults.csv'
 url = "https://skyhoundz.com/previous-competition-results/"
