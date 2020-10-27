@@ -1,3 +1,7 @@
+import pandas as pd
+import requests
+from io import StringIO
+
 # SkyHoundz Classic Google Drive share link
 SHClass_orig_url = 'https://drive.google.com/file/d/1KiBVDmnbsZcYx2ltx-DK2edbLo4iBJTb/view?usp=sharing'
 
